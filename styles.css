@@ -502,8 +502,7 @@
           height: 50%;
         }
   /* Phone Media */
-  @media screen and (max-width: 700px) and (min-width: 400px) {
-
+  @media screen and (max-width: 375px){
     body, html{
       
     }

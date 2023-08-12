@@ -511,6 +511,7 @@
     .Hero{
       background-size: cover;
       background-position: left;
+      overflow: hidden;
     }
     .navbar {
       display: flex;

@@ -618,7 +618,7 @@
     .NavigationBox{
       width: 40%;
       height: 215px;
-      
+      right: 5%;
       z-index: 2;
       margin-top: 50px;
       
